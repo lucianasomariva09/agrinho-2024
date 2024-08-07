@@ -83,13 +83,15 @@ background-image: linear-gradient(#005200,#C5EDB7)
 
 
         }
-        .botao{
+        .rodape{
          background-color:black;
-         border-radius: 5px;
          padding: 1em;
          color: white;
-         display: block;
-         text-decoration: none;
+         text-align: center;
+         
+        }
+        .imagem-rodape{
+height: 60px;
 
 
         }
