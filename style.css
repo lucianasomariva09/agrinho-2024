@@ -25,14 +25,15 @@ padding: 24px 0;
     .cabeçalho-lista-item{
         display: inline-block;
         margin: 0 20px;
-        font-size: 20px;
+        font-size: 26px;
     }
     .trabalho-div-conteudo{
         width: 90%;
         }
         
         .trabalho-titulo{
-         padding: 24px 0; 
+         padding: 24px 0;
+         font-size: 35px; 
         }
         
         .trabalho-texto-um{
@@ -45,7 +46,7 @@ padding: 24px 0;
             font-size: 24px;  
            }
            .trabalho-imagem{
-            width: 90%;
+            width: 120%;
         
         }
         .trabalho{
@@ -59,7 +60,7 @@ padding: 24px 0;
         }
         
         .trabalho-div{
-            height: 25vh;
+            height: 29vh;
             grid-template-columns: 50% 50%;
             padding: 2em;
         }
